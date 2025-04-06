@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as mobile lead at **Picasse Mobile and Internet B.V.**
 
-- 🌱 I’m currently learning **Jetpack Compose, Flutter, KMM**
+- 🌱 Building robust Android apps with **Jetpack Compose**, architecting clean, testable codebases, and integrating **Kotlin Multiplatform** into modern stacks
 
 - 📝 I regularly write articles on [https://medium.com/@mudassirzulfiqarblog](https://medium.com/@mudassirzulfiqarblog)
 
