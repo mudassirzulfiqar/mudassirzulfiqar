@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mudassirzulfiqarblog](https://medium.com/@mudassirzulfiqarblog)
 
-- 📫 How to reach me **mrmudassirzulfiqar@gmail.com**
+- 📫 How to reach me **m.zulfiqar.nl@gmail.com**
 
 - ⚡ Fun fact **Would like to perform in a standup comedy show.**
 
