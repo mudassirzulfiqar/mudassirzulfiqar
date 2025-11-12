@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudassirzulfiqar&label=Profile%20views&color=0e75b6&style=flat" alt="mudassirzulfiqar" /> </p>
 
-- 🔭 I’m currently working as mobile lead at **Picasse Mobile and Internet B.V.**
+- 🔭 I’m currently working as mobile as Senior Android Developer at **PowerGoodies B.V.**
 
 - 🌱 Building robust Android apps with **Jetpack Compose**, architecting clean, testable codebases, and integrating **Kotlin Multiplatform** into modern stacks
 
